@@ -1,7 +1,8 @@
 ---
-layout: post
-title: An efficient distributed algorithm with application to COVID-19 data from heterogeneous clinical sites
-comments: true
+title: 'An efficient distributed algorithm with application to COVID-19 data from heterogeneous clinical sites'
+date: 2022-11-17
+tags:
+  - Publications
 ---
 
 Objectives: Integrating electronic health records (EHR) data from several clinical sites offers great opportunities to improve estimation with a more general population compared to analyses based on a single clinical site. However, sharing patient-level data across sites is practically challenging due to concerns about maintaining patient privacy. The objective of this study is to develop a novel distributed algorithm to integrate heterogeneous EHR data from multiple clinical sites without sharing patient-level data.
