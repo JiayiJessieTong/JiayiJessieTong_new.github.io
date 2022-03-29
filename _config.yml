@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "J.T."
+title                    : "J.TONG"
 title_separator          : "-"
 name                     : &name "Jiayi (Jessie) Tong"
 description              : &description "Ph.D. Candidate in Biostatistics at Penn"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiayi (Jessie) Tong 佟佳仪"
-  avatar           : "Jiayi_Tong_photo.JPG"
+  name             : "Jiayi Tong 佟佳仪"
+  avatar           : "Jiayi_Tong_photo.png"
   bio              : "Ph.D. Candidate in  Biostatistics program at Penn, advised by Dr. Yong Chen"
   location         : "Philadelphia, PA"
   employer         :
