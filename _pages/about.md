@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jiayi (Jessie) Tong, Ph.D. candidate in the Biostatistics program at the Perelman School of Medicine, the University of Pennsylvania.
+My name is Jiayi (Jessie) Tong, Ph.D. candidate in the Biostatistics program at the Perelman School of Medicine, the University of Pennsylvania, advised by Dr. Yong Chen. I received a B.S. with High Honors in Applied Mathematics from the University of California, San Diego in 2017. 
+
+My research focuses on developing novel statistical and computational methods for integrating real-world evidence (RWE) from multiple data sources. Specifically, my academic interests include characterizing the complexity of heterogeneity in multi-site analyses toward better informed clinical decision-making in medicine and policy-making in public health. My work has led to applications to opioid use disorder, pediatric Crohn's disease, depression and bipolar diseases, COVID-19 among children and adolescents, blood disorder, and vaccine adverse events.
 
 
 Education  
