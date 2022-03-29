@@ -8,4 +8,4 @@ date: 2020-09-01
 location: "Philadephia, PA"
 ---
 
-I served as the teaching assistant fellow in FALL 2020 for BSTA 660: Design of Observational Studies.
+I served as the teaching assistant in FALL 2020 for BSTA 660: Design of Observational Studies.
