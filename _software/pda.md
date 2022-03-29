@@ -1,7 +1,7 @@
 ---
 title: "PDA (Privacy-preserving Distributed Algorithms)"
 excerpt: "A Solution for Next Generation Data Sharing"
-collection: portfolio
+collection: software
 ---
 
 Please visit our PDA website through this [link](https://pdamethods.org/)
