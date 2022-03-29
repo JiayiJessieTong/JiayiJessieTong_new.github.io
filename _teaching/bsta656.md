@@ -2,7 +2,7 @@
 title: "Longitudinal Data Analysis (BSTA 656)"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/
+permalink: /teaching/bsta656
 venue: "University of Pennsylvania"
 date: 2021-09-02
 location: "Philadephia, PA"
