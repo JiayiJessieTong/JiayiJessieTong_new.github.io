@@ -1,6 +1,6 @@
 ---
 title: '2019 Summer Lab Rotation with Dr. Yong Chen'
-date: 2014-08-14
+date: 2019-07-17
 permalink: /posts/2019/07/lab-rotation-2019Summer/
 tags:
   - Lab rotation
