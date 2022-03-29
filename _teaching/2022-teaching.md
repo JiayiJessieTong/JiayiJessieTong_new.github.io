@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Teaching Experience"
 collection: teaching
 <!-- type: "Graduate Course" -->
 <!-- permalink: /teaching/2014-spring-teaching-1 -->
