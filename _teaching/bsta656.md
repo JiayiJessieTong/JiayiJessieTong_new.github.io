@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/bsta656
 venue: "University of Pennsylvania"
-date: 2021-09-02
+date: 2021-10-15
 location: "Philadephia, PA"
 ---
 
