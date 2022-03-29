@@ -7,4 +7,4 @@ venue: "University of Pennsylvania"
 date: 2020-10-15
 location: "Philadelphia, PA"
 ---
-I served as the teaching assistant in FALL 2020 for BSTA 661: Design Of Interventional Studies.
+I served as the teaching assistant for Dr. Alisa Stephens in Fall 2020 on course *Design Of Interventional Studies*.
