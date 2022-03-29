@@ -1,5 +1,4 @@
 ---
-layout: post
 title: ASA Philadelphia Chapter Exceptional Achievement Award for Graduate Students
 date: 2022-03-25
 ---
