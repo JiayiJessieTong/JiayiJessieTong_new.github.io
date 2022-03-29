@@ -1,7 +1,7 @@
 ---
 title: "Xmeta"
 excerpt: "A Comprehensive Toolbox for Meta-analysis"
-collection: portfolio
+collection: software
 ---
 
 Please visit our Xmeta website through this [link](https://xmeta.org/)
