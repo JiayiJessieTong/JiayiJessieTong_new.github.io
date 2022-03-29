@@ -10,4 +10,4 @@ It is my honor to have the opportunity to rotate in Dr. Moore's lab this semeste
 
 Please take care and be safe, with warmest regards!
 
-![title](/img/2020spring_lab_rotation.png)
+![title](/images/2020spring_lab_rotation.png)
