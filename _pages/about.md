@@ -43,6 +43,8 @@ Awards/Honors
 - **ASA Philadelphia Chapter Graduate Student Award**   
   The American Statistical Association
   
+- **Award for Outstanding Data Science Communication and Innovation (2021)**
+  OptumLabs UnitedHealth Group, Minnetonka
 
 - **Department Honors in Mathematics (Applied) with High Distinction (2017)**   
   University of California, San Diego
