@@ -26,7 +26,7 @@ Education
 - **M.S in Biostatistics, University of Pennsylvania, Sep 2019 ~ May 2021**  
   Department of Biostatistics, Epidemiology and Informatics  
   Perelman School of Medicine at the University of Pennsylvania  
-  Thesis title: Advancing timely and reliable evidence synthesis in the era of COVID-19: A novel method for including preprints in systematic reviews
+  Thesis title: Advancing timely and reliable evidence synthesis in the era of COVID-19: A novel method for including preprints in systematic reviews\
   Advisors: [Dr. Yong Chen](https://penncil.med.upenn.edu/about-pi/), [Dr. Adam Cuker](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8134441)
 
 
