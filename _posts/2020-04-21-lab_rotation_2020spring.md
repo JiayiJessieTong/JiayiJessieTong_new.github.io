@@ -1,8 +1,10 @@
 ---
-layout: post
-title: 2020 Spring Lab Rotation with Dr. Jason Moore 
-comments: true
+title: '2020 Spring Lab Rotation with Dr. Jason Moore '
+date: 2020-04-21
+tags:
+  - lab rotation
 ---
+
 
 I just gave a virtual final presentation of the lab rotation project wit Dr. Jason Moore. I'd like to thank the audience for coming and listening during this difficult time. 
 
