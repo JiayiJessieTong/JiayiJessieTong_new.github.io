@@ -1,7 +1,7 @@
 ---
 title: '2020 Spring Lab Rotation with Dr. Jason Moore '
 date: 2020-04-21
-permalink: /posts/2020/04/lab-rotation_2020spring/
+permalink: /posts/2020/04/lab-rotation-2020spring/
 tags:
   - lab rotation
 ---
