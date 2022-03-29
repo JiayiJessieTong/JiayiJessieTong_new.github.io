@@ -2,9 +2,9 @@
 title: "Design Of Interventional Studies (BSTA 661)"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/bsta661.
+permalink: /teaching/bsta661
 venue: "University of Pennsylvania"
-date: 2020-09-02
+date: 2020-10-15
 location: "Philadephia, PA"
 ---
 
