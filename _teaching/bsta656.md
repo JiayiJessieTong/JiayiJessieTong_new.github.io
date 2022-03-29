@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/
 venue: "University of Pennsylvania"
-date: 2021-09-01
+date: 2021-09-02
 location: "Philadephia, PA"
 ---
 
