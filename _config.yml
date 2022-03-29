@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "J.T."
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jiayi (Jessie) Tong"
+description              : &description "Ph.D. Candidate in Biostatistics"
 url                      : https://JiayiJessieTong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JiayiJessieTong/JiayiJessieTong.github.io"
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @JiayiJessieTong
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jiayi (Jessie) Tong"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "My name is Jiayi (Jessie) Tong. I am a third year Ph.D. student in the Biostatistics program at the Perelman School of Medicine, the University of Pennsylvania."
+  location         : "Philadelphia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Tong+J&cauthor_id=32282406"
+  googlescholar    : "https://scholar.google.com/citations?user=47w-myYAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/JiayiJessieTong"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1213-6699"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/JiayiJessieTong"
   vine             :
   weibo            :
   xing             :
