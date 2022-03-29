@@ -15,4 +15,4 @@ Conclusions: Our simulation study and data application demonstrate that the prop
 
 medRxiv link: https://www.medrxiv.org/content/10.1101/2020.11.17.20220681v1.full
 
-![title](/img/figure1.png)
+![title](/images/figure1.png)
