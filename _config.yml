@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "J.T."
 title_separator          : "-"
 name                     : &name "Jiayi (Jessie) Tong"
-description              : &description "Ph.D. Candidate in Biostatistics"
-url                      : https://JiayiJessieTong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Ph.D. Candidate in Biostatistics at Penn"
+url                      : https://jiayijessietong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JiayiJessieTong/JiayiJessieTong.github.io"
+repository               : "jiayijessietong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @JiayiJessieTong
+  username               : &twitter
 facebook:
   username               : 
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiayi (Jessie) Tong"
+  name             : "Jiayi (Jessie) Tong 佟佳仪"
   avatar           : "Jiayi_Tong_photo.JPG"
-  bio              : "My name is Jiayi (Jessie) Tong. I am a third year Ph.D. student in the Biostatistics program at the Perelman School of Medicine, the University of Pennsylvania."
-  location         : "Philadelphia"
+  bio              : "Ph.D. Candidate in  Biostatistics program at Penn, advised by Dr. Yong Chen"
+  location         : "Philadelphia, PA"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Tong+J&cauthor_id=32282406"
   googlescholar    : "https://scholar.google.com/citations?user=47w-myYAAAAJ&hl=en"
-  email            :
+  email            : "Jiayi.Tong@pennmedicine.upenn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/JiayiJessieTong"
+  github           : "JiayiJessieTong"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jiayi-jessie-tong-13a874197/"
   orcid            : "https://orcid.org/0000-0002-1213-6699"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/JiayiJessieTong"
+  twitter          : "JiayiJessieTong"
   vine             :
   weibo            :
   xing             :
