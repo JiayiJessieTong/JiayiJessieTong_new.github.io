@@ -1,6 +1,6 @@
 ---
-title: "PDA"
-excerpt: "Privacy-preserving Distributed Algorithms"
+title: "PDA (Privacy-preserving Distributed Algorithms)"
+excerpt: "A Solution for Next Generation Data Sharing"
 collection: portfolio
 ---
 
