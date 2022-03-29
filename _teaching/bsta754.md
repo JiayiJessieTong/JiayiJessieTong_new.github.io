@@ -8,5 +8,5 @@ date: 2021-09-01
 location: "Philadephia, PA"
 ---
 
-I served as the teaching assistant fellow in FALL 2021 for BSTA 754: Advanced Survival Analysis
+I served as the teaching assistant in FALL 2021 for BSTA 754: Advanced Survival Analysis
 
