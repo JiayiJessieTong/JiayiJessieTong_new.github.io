@@ -1,6 +1,7 @@
 ---
 title: 'An efficient distributed algorithm with application to COVID-19 data from heterogeneous clinical sites'
 date: 2022-11-17
+permalink: /posts/2020/11/pairwise-ODAL/
 tags:
   - Publications
 ---
