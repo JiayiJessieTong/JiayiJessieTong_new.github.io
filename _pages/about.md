@@ -30,7 +30,7 @@ Education
   Advisors: [Dr. Yong Chen](https://penncil.med.upenn.edu/about-pi/), [Dr. Adam Cuker](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8134441)
 
 
-- **B.S. with High Honors in Applied Mathematics, June 2017**  
+- **B.S. with High Honors in Applied Mathematics, Sep 2014 ~ June 2017**  
   Cum Laude  
   University of California, San Diego  
   Thesis title: Strongly Correlated Band Random Matrices  
@@ -42,7 +42,7 @@ Education
 Awards/Honors  
 -----------
 
-- **ASA Philadelphia Chapter Graduate Student Award**   
+- **ASA Philadelphia Chapter Graduate Student Award (2022)**   
   The American Statistical Association
   
 - **Award for Outstanding Data Science Communication and Innovation (2021)**
@@ -51,7 +51,7 @@ Awards/Honors
 - **Department Honors in Mathematics (Applied) with High Distinction (2017)**   
   University of California, San Diego
 
-- **Honor society: Phi Beta Kappa (2017)**  
+- **Phi Beta Kappa (2017)**  
   University of California, San Diego
 
 - **Provost’s Honors (2015, 2016, 2017)**  
