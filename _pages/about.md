@@ -45,7 +45,7 @@ Awards/Honors
 - **ASA Philadelphia Chapter Graduate Student Award (2022)**   
   The American Statistical Association
   
-- **Award for Outstanding Data Science Communication and Innovation (2021)**
+- **Award for Outstanding Data Science Communication and Innovation (2021)** \
   OptumLabs UnitedHealth Group, Minnetonka
 
 - **Department Honors in Mathematics (Applied) with High Distinction (2017)**   
