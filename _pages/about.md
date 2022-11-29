@@ -42,8 +42,11 @@ Education
 Awards/Honors  
 -----------
 
-- **ASA Philadelphia Chapter Graduate Student Award (2022)**   
-  The American Statistical Association
+- **American Statistical Association (ASA) Philadelphia Chapter Exceptional Achievement Award for Graduate Students (2022)**   
+  The American Statistical Association (ASA)
+  
+- **Graduate Student Teaching Award (2022)**   
+  Graduate Group in Epidemiology and Biostatistics (GGEB) University of Pennsylvania
   
 - **Award for Outstanding Data Science Communication and Innovation (2021)** \
   OptumLabs UnitedHealth Group, Minnetonka
